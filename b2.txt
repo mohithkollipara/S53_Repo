@@ -1,1 +1,1 @@
-"this is b2 branch file"
+"this is b2 file"
